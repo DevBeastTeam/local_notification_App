@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 <!-- notification -->
 # notification Demo
-<img src="demo_images/notic.png" alt="Demo Image" width="300px">
+<img src="demo_images/notic.png" alt="Demo Image">
